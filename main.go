@@ -1,4 +1,4 @@
-package yueqian_bishi
+package main
 
 import "fmt"
 
